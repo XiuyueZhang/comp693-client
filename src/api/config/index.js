@@ -2,7 +2,7 @@ import axios from "axios";
 import createAxioErrorHandler from "../errorHandler";
 
 const api = axios.create({
-    baseURL: "http://localhost:5050/",
+    baseURL: "http://52.65.41.250:5050/",
 });
 // }
 
